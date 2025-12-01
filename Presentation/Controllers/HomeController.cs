@@ -2,7 +2,7 @@ using System.Diagnostics;
 using EP_HomeAssignment.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace EP_HomeAssignment.Controllers
+namespace EP_HomeAssignment.Presentation.Controllers
 {
     public class HomeController : Controller
     {
