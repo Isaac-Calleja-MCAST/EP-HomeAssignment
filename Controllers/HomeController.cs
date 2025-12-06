@@ -1,8 +1,8 @@
 using System.Diagnostics;
-using EP_HomeAssignment.Models;
+using Presentation.Models;
 using Microsoft.AspNetCore.Mvc;
 
-namespace EP_HomeAssignment.Presentation.Controllers
+namespace Presentation.Controllers
 {
     public class HomeController : Controller
     {

@@ -1,4 +1,4 @@
-namespace EP_HomeAssignment.Presentation.Models
+namespace Presentation.Models
 {
     public class ErrorViewModel
     {
